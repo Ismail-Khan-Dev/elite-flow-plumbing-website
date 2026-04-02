@@ -1,7 +1,8 @@
 {
-  "name": "my-app",
+  "name": "elite-flow-plumbing",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "Elite Flow Plumbing - A premium luxury plumbing service website built with React, Vite, and Framer Motion.",
   "type": "module",
   "scripts": {
     "dev": "vite",
